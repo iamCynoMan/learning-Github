@@ -2,3 +2,5 @@ Potato
 Rice
 pulses
 Paneer
+tomato
+oil
